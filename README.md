@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi eveyone! 👋 Im Sara Nieto
+- 👩🏻‍💻 I’m currently learning Software development at MisionTIC 2022
+
 
 <!--
 **sarantogo/sarantogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

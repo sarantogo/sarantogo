@@ -1,4 +1,4 @@
-### Hi eveyone! 👋 Im Sara Nieto
+### Hi eveyone! 👋 I'm Sara Nieto
 - 👩🏻‍💻 I’m currently learning Software development at MisionTIC 2022
 
 

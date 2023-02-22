@@ -1,6 +1,6 @@
 ### Hi eveyone! 👋 I'm Sara Nieto
 
-- 👩🏻‍🔬 Chemical engineer with 1 year of experience. I'm very passionate and interested in starting my career as a software developer 💻.
-- 👩🏻‍💻 I’m currently learning to program with Java, Python, SQL, HTML, CSS, Javascript.
+- 👩🏻‍💻 Software developer. With knowledge in Java, Python, SQL, HTML, CSS, JavaScript, TypeScript.
+- Hoping to make the world better with s
 - 📫 Contact me: saranieto208@gmail.com 
 

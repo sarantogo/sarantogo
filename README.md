@@ -3,5 +3,5 @@
 - 👩🏻‍💻 Junior Software developer at Constructora Bolivar. With knowledge in Java, Python, SQL, HTML, CSS, JavaScript, TypeScript.
 - 💡 Experience with React, Angular, Springboot, MySQL, Oracle.
 - 😎 Hoping to make the world better with software. 
-- 📫 Contact me: sanietogo@unal.edu.co 
+- 📫 Contact me: saranieto208@gmail.com
 
